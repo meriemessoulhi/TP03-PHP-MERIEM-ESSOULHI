@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "reda",
+        "notes": {
+            "info": 5,
+            "math": 4
+        },
+        "moyenne": 4.5
+    },
+    {
+        "nom": "ali",
+        "notes": {
+            "info": 10,
+            "math": 5
+        },
+        "moyenne": 7.5
+    },
+    {
+        "nom": "meriem",
+        "notes": {
+            "info": 17,
+            "math": 18
+        },
+        "moyenne": 17.5
+    }
+]
